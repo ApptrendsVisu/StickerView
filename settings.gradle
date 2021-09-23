@@ -1,0 +1,3 @@
+include ':ApptrendStickerView'
+include ':app'
+rootProject.name = "apptrends"
